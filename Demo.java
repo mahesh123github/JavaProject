@@ -7,5 +7,6 @@ public static void main(String args[])
 	int b = 20;
 	int c = a +b;
 	System.out.println("sum of two number "+c);
+	System.out.println("sum of two number "+c);
 }
 }
